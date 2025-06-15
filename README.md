@@ -4,11 +4,11 @@ This project is a web-based Medical Store Form application developed using Java 
 Technologies Used-->
 Frontend:-
 HTML, CSS
-JSP (JavaServer Pages)
+,JSP (JavaServer Pages)
 
 Backend:-
 Java Servlet (J2EE)
-JDBC (Java Database Connectivity)
+,JDBC (Java Database Connectivity)
 
 Database:-
 MySQL
